@@ -44,6 +44,8 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;
   <img src='https://media.giphy.com/media/KG4PMQ0jyimywxNt8i/giphy.gif' width='40' height='40' />
 </div>
+&nbsp;
+<p>*** Dark mode enjoyers, the icons that cannot be seen are as follows: 'Next', Express', and 'Cypress'. 🤝 ***</p>
 
 ---
 
