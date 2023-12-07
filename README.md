@@ -42,7 +42,7 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;
-  <img src='https://media.giphy.com/media/0U7bWQK9s75PjRKcHz/giphy.gif' width='40' height='40' />
+  <img src='https://media.giphy.com/media/KG4PMQ0jyimywxNt8i/giphy.gif' width='40' height='40' />
 </div>
 
 ---
