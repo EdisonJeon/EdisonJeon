@@ -17,7 +17,7 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 👨‍💻 Here is a link to my portfolio (UNDER CONSTRUCTION) => <a href='null'>click here</a>
 
-- :zap: In my free time => sports, piano, music, the great outdoors, gaming, motorcycles, gym, dogs, and / or quality time with loved ones.
+- :zap: In my free time you'll find me => sports, piano, music, the great outdoors, gaming, motorcycles, gym, dogs, and / or quality time with loved ones.
 
 ---
 
