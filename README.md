@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/Ph6A5WjBAI3981PAsf/giphy.gif" width="200"/>
   <h1>Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <p>
-<a href="https://twitter.com/hongmin_ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hongmin_ii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edison-jeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edison-jeon" height="30" width="40" /></a>
 <a href="https://fb.com/edison.jeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edison.jeon" height="30" width="40" /></a>
 <a href="https://instagram.com/edisonthe2nd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edisonthe2nd" height="30" width="40" /></a>
+<a href="https://twitter.com/hongmin_ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hongmin_ii" height="30" width="40" /></a>
 </p>
 </div>
 
@@ -13,7 +13,7 @@
 
 ### About Me :
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently based in Los Angeles.
-- 📫 How to reach me => **edisonthe2nd@gmail.com**
+- 📫 Best way to reach me other than my socials => **edisonthe2nd@gmail.com**
 
 - 👨‍💻 Here is a link to my portfolio (UNDER CONSTRUCTION) => <a href='null'>click here</a>
 
